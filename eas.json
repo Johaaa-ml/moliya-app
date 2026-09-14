@@ -1,0 +1,1 @@
+{"cli":{"version":">= 5.0.0"},"build":{"production":{"node":"18.13.0","npm":"9.2.0"},"preview":{"android":{"buildType":"apk"}},"development":{"android":{"buildType":"apk"},"ios":{"buildType":"simulator"}}}}
